@@ -3,7 +3,7 @@
 ### <b>Description:</b>
 This is a supervised (classification) machine learning capstone project on Cardiovascular risk prediction, given by [Alma Better](https://www.almabetter.com/). 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Problem statement:</b>
 Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 18.6 million lives each year, which accounts for 33% of all the global deaths. CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions. More than four out of five CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.
@@ -14,7 +14,7 @@ Our main aim here is to predict whether the patient has a 10-year risk of future
 
 ![pic2](https://user-images.githubusercontent.com/85065799/202833341-89899418-1a91-4113-93f2-f4658ab4be6e.jpg)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 #### <b>Note:</b> Dataset is provided by the company, Alma Better.
 
@@ -65,7 +65,7 @@ Each attribute is a potential risk factor. These attributes include demographic,
 
   • 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) - DV
   
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Project Flowchart:</b>
 1. Initial preparations(Loading the dependencies and the data)
@@ -95,7 +95,7 @@ Each attribute is a potential risk factor. These attributes include demographic,
 
 7. Model explainability
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Conclusion:</b>
 
@@ -124,7 +124,7 @@ Each attribute is a potential risk factor. These attributes include demographic,
   * Choosing model explainability techniques.
   * Running the slow Gradient Boosting Classifier.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 <b> For further information you can check the google colab file added in the repository. 
 
